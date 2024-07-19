@@ -4,7 +4,7 @@
 
 - [x] Make it deploy (Vercel)
 - [x] Sidebar, icons, tailwind merge
-- [] Main layout
+- [x] Main layout - Header
 - [] Auth
 - [] Supabase setup
 - [] Attach database to UI
