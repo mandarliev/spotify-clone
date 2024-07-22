@@ -5,11 +5,11 @@
 - [x] Make it deploy (Vercel)
 - [x] Sidebar, icons, tailwind merge
 - [x] Main layout - Header
-- [] Auth
-- [] Supabase setup
-- [] Attach database to UI
+- [x] Supabase setup
+- [x] Supabase and Auth providers, types, useUser custom hook
 - [] Authentication modal and functionality
 - [] Upload modal and functionality
+- [] Attach database to UI
 - [] Songs fetching and list display
 - [] Favorites
 - [] Player functionality
