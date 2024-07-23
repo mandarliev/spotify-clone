@@ -7,7 +7,7 @@
 - [x] Main layout - Header
 - [x] Supabase setup
 - [x] Supabase and Auth providers, types, useUser custom hook
-- [] Authentication modal and functionality
+- [x] Modal provider, radix-ui, dialog; Authentication modal with controller hook with zustand functionality
 - [] Upload modal and functionality
 - [] Attach database to UI
 - [] Songs fetching and list display
