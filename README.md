@@ -8,6 +8,7 @@
 - [x] Supabase setup
 - [x] Supabase and Auth providers, types, useUser custom hook
 - [x] Modal provider, radix-ui, dialog; Authentication modal with controller hook with zustand functionality
+- [x] Github sign in functionality, Toaster package; sign in/out toast
 - [] Upload modal and functionality
 - [] Attach database to UI
 - [] Songs fetching and list display
